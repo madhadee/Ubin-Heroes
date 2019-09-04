@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Recycling Facts Screen-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_gradient">
+
+    <LinearLayout
+        android:id="@+id/llRecycleTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:padding="@dimen/appLPadding"
+        android:layout_marginTop="@dimen/appLMargin"
+        android:layout_marginStart="@dimen/appMMargin"
+        android:background="@drawable/bg_profile_box"
+        android:rotation="-10">
+        <TextView
+            android:id="@+id/tvRecycleTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_recycle"
+            android:textSize="@dimen/textUser"
+            android:textStyle="bold"
+            android:textColor="@color/colorText"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivDidYouKnow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/img_did_you_know"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:contentDescription="@string/description_nea_fun_fact"/>
+
+    <ScrollView
+        android:id="@+id/svFacts"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivDidYouKnow">
+
+        <LinearLayout
+            android:id="@+id/llFacts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/appMPadding"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tvDidYouKnow"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="@dimen/appSPadding"
+                android:paddingEnd="@dimen/appXLMargin"
+                android:text="@string/msg_did_you_know"
+                android:textSize="@dimen/textHead" />
+
+            <LinearLayout
+                android:id="@+id/llCanRecycle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_can_recycle"
+                android:orientation="vertical"
+                android:padding="@dimen/appSPadding">
+                <TextView
+                    android:id="@+id/tvCanRecycleTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/title_can_recycle"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="@dimen/textTitle"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvCanRecycleContent1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_can_recycle_paper" />
+
+                <TextView
+                    android:id="@+id/tvCanRecycleContent2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_can_recycle_metal_cans" />
+
+                <TextView
+                    android:id="@+id/tvCanRecycleContent3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_can_recycle_plastic" />
+
+                <TextView
+                    android:id="@+id/tvCanRecycleContent4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_can_recycle_glass" />
+
+                <TextView
+                    android:id="@+id/tvCanRecycleContent5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_can_recycle_clothes" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llCannotRecycle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/appLMargin"
+                android:layout_marginBottom="@dimen/appLMargin"
+                android:background="@drawable/bg_cannot_recycle"
+                android:orientation="vertical"
+                android:padding="@dimen/appSPadding">
+                <TextView
+                    android:id="@+id/tvCannotRecycleTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/title_cannot_recycle"
+                    android:textColor="@color/redText"
+                    android:textSize="@dimen/textTitle"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvCannotRecycleContent1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_cannot_recycle_paper" />
+
+                <TextView
+                    android:id="@+id/tvCannotRecycleContent2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_cannot_recycle_styrofoam" />
+
+                <TextView
+                    android:id="@+id/tvCannotRecycleContent3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_cannot_recycle_cassette" />
+
+                <TextView
+                    android:id="@+id/tvCannotRecycleContent4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_cannot_recycle_bulbs" />
+
+                <TextView
+                    android:id="@+id/tvCannotRecycleContent5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/appSPadding"
+                    android:text="@string/msg_cannot_recycle_ceramic" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

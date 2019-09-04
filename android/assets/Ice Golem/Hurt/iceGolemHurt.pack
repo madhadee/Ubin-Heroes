@@ -1,0 +1,144 @@
+
+iceGolemHurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+iceGolemHurt2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+iceGolemHurt3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+iceGolemHurt4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+iceGolemHurt5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+iceGolemHurt6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+iceGolemHurt7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+iceGolemHurt8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+iceGolemHurt9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+iceGolemHurt10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+iceGolemHurt11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+iceGolemHurt12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

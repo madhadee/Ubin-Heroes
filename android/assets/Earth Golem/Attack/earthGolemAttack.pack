@@ -1,0 +1,144 @@
+
+earthGolemAttack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+earthGolemAttack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+earthGolemAttack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+earthGolemAttack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+earthGolemAttack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+earthGolemAttack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+earthGolemAttack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+earthGolemAttack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+earthGolemAttack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+earthGolemAttack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+earthGolemAttack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+earthGolemAttack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Kicking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

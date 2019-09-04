@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Inventory Screen-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/materialCount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/appSPadding"
+        android:paddingRight="@dimen/appSPadding"
+        android:paddingTop="@dimen/appMPadding"
+        android:paddingBottom="@dimen/appMPadding"
+        android:baselineAligned="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.4" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_plastic"
+                android:textAlignment="center"
+                android:textSize="@dimen/textPara" />
+
+            <TextView
+                android:id="@+id/plasticCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/count_plastic"
+                android:textAlignment="center"
+                android:textColor="@color/redText"
+                android:textSize="@dimen/textUser"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_metal"
+                android:textAlignment="center"
+                android:textSize="@dimen/textPara" />
+
+            <TextView
+                android:id="@+id/metalCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/count_metal"
+                android:textAlignment="center"
+                android:textColor="@color/blueText"
+                android:textSize="@dimen/textUser"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_paper"
+                android:textAlignment="center"
+                android:textSize="@dimen/textPara" />
+
+            <TextView
+                android:id="@+id/paperCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/count_paper"
+                android:textAlignment="center"
+                android:textColor="@color/yellowText"
+                android:textSize="@dimen/textUser"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/materialCount"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tablayout"
+        app:layout_constraintBottom_toTopOf="@id/nav_bar"/>
+
+    <include
+        android:id="@+id/nav_bar"
+        layout="@layout/navigation_bar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</android.support.constraint.ConstraintLayout>

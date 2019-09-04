@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "641264245864",
+    "firebase_url": "https://ubin-heroes.firebaseio.com",
+    "project_id": "ubin-heroes",
+    "storage_bucket": "ubin-heroes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641264245864:android:2886493218362930",
+        "android_client_info": {
+          "package_name": "com.aztheman.ubinheroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641264245864-lv61i4nuvm61cep55bfvnir7t5cvrhcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "71b22b2bf389fbc792b26cdf41ae9d667e1b0084"
+          }
+        },
+        {
+          "client_id": "641264245864-4027j8i2q6gfqv58em16kp1uj9evilft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "0fb2258c50d8135f0ebcc21318c36200131db117"
+          }
+        },
+        {
+          "client_id": "641264245864-4gemd1cdifjtk6mpdb9kqpdj5l5e3736.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "5deb20ca847143e9e04d1504d2bd178e7c5ae31d"
+          }
+        },
+        {
+          "client_id": "641264245864-trplduehsgbj16u1jdc8i27euif86m5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "93379d2ce37b92b8b601a10313e41c18eecc4c6e"
+          }
+        },
+        {
+          "client_id": "641264245864-9vvnn2shbcr6n1c6furuaemcujf9fnnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "6992656bdf1c95a61ca98dc5320f018b2776a8e7"
+          }
+        },
+        {
+          "client_id": "641264245864-8o7vguqni95qcja5erqi7ap39jhkel68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aztheman.ubinheroes",
+            "certificate_hash": "8ae409888a2af7844d0476e955dc0663bf5ffc86"
+          }
+        },
+        {
+          "client_id": "641264245864-f19m6u1u30lngl7li2or8tg1hapd7c3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnXNAIABahgHQa23VHOOQGyZf-gtQFGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641264245864-f2ojt2ks2bt3cn3hn0se38780ce4id8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641264245864:android:a29c971dfc44c526",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641264245864-5tjsph681qg54p8jeu71svu274d91oiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "8ae409888a2af7844d0476e955dc0663bf5ffc86"
+          }
+        },
+        {
+          "client_id": "641264245864-kipg03001bglhggamt4ts7hqkdmd229d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "71b22b2bf389fbc792b26cdf41ae9d667e1b0084"
+          }
+        },
+        {
+          "client_id": "641264245864-348df5anr1c9ahvu60gptopehhdoshct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "0fb2258c50d8135f0ebcc21318c36200131db117"
+          }
+        },
+        {
+          "client_id": "641264245864-s0scvue8nqm96erb5vds7ljodjivl5id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "5deb20ca847143e9e04d1504d2bd178e7c5ae31d"
+          }
+        },
+        {
+          "client_id": "641264245864-72ma062sfso5tg168rhrus1q26j1jitj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "93379d2ce37b92b8b601a10313e41c18eecc4c6e"
+          }
+        },
+        {
+          "client_id": "641264245864-5kv8gd8v2ubf1p61qnuq20q9f01rf1f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "6992656bdf1c95a61ca98dc5320f018b2776a8e7"
+          }
+        },
+        {
+          "client_id": "641264245864-f19m6u1u30lngl7li2or8tg1hapd7c3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnXNAIABahgHQa23VHOOQGyZf-gtQFGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641264245864-f2ojt2ks2bt3cn3hn0se38780ce4id8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

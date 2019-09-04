@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Craft Dialog-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/appSPadding"
+        android:text="@string/dialog_weapon_cost"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="@dimen/textTitle">
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/requiredMaterials"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dialogTitle"
+        android:weightSum="3"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/appLMargin">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_plastic"
+                android:contentDescription="@string/description_plastic_cost"/>
+
+            <TextView
+                android:id="@+id/tvPolyCost"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_weapon_cost_number"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/redText"
+                android:textSize="@dimen/textHead"
+                android:onClick="onClick"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/appLMargin">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_metal"
+                android:contentDescription="@string/description_metal_cost"/>
+
+            <TextView
+                android:id="@+id/tvLogamCost"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_weapon_cost_number"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/blueText"
+                android:textSize="@dimen/textHead"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/appLMargin">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_paper"
+                android:contentDescription="@string/description_paper_cost"/>
+
+            <TextView
+                android:id="@+id/tvKayuCost"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_weapon_cost_number"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/yellowText"
+                android:textSize="@dimen/textHead"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dialogCraftCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/appMPadding"
+        android:layout_below="@id/requiredMaterials"
+        android:textAlignment="center"
+        android:text="@string/dialog_weapon_create"
+        android:textSize="@dimen/textPara"
+        android:textStyle="bold"
+        android:textColor="@color/whiteText"/>
+
+</RelativeLayout>

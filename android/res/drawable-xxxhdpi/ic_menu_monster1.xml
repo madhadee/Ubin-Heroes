@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/idleMonster" xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/img_earth_golem_idle" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle2" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle3" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle4" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle5" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle6" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle7" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle8" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle9" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle10" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle11" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle12" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle13" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle14" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle15" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle16" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle17" android:duration="50"/>
+    <item android:drawable="@drawable/img_earth_golem_idle18" android:duration="50"/>
+</animation-list>

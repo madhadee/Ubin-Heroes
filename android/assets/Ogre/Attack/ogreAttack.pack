@@ -1,0 +1,144 @@
+
+ogreAttack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+ogreAttack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+ogreAttack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+ogreAttack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+ogreAttack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+ogreAttack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+ogreAttack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+ogreAttack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+ogreAttack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+ogreAttack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+ogreAttack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+ogreAttack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Run Throwing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

@@ -1,0 +1,144 @@
+
+orc1Hurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+orc1Hurt2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+orc1Hurt3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+orc1Hurt4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+orc1Hurt5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+orc1Hurt6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+orc1Hurt7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+orc1Hurt8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+orc1Hurt9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+orc1Hurt10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+orc1Hurt11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+orc1Hurt12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

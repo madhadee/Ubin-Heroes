@@ -1,0 +1,144 @@
+
+lavaGolemHurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+lavaGolemHurt2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+lavaGolemHurt3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+lavaGolemHurt4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+lavaGolemHurt5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+lavaGolemHurt6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+lavaGolemHurt7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+lavaGolemHurt8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+lavaGolemHurt9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+lavaGolemHurt10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+lavaGolemHurt11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+lavaGolemHurt12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

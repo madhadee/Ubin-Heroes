@@ -1,0 +1,144 @@
+
+earthGolemHurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+earthGolemHurt2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+earthGolemHurt3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+earthGolemHurt4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+earthGolemHurt5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+earthGolemHurt6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+earthGolemHurt7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+earthGolemHurt8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+earthGolemHurt9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+earthGolemHurt10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+earthGolemHurt11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+earthGolemHurt12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

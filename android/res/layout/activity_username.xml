@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Choose Username Screen-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+        <TextView
+            android:id="@+id/tvIntro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title_registration_intro"
+            android:layout_marginBottom="@dimen/appMMargin"
+            android:paddingBottom="@dimen/appXLPadding"
+            android:textAlignment="center"
+            android:textSize="@dimen/textUser"
+            android:textStyle="bold"
+            android:paddingHorizontal="@dimen/appLPadding"/>
+
+        <TextView
+            android:id="@+id/tvUsernameQns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_username"
+            android:layout_marginStart="@dimen/appMMargin"
+            android:layout_marginEnd="@dimen/appMMargin"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_username"
+            android:inputType="text"
+            android:textColor="@color/colorText"
+            android:layout_marginStart="@dimen/appMMargin"
+            android:layout_marginEnd="@dimen/appMMargin"
+            android:layout_marginBottom="@dimen/appMMargin"/>
+
+        <TextView
+            android:id="@+id/tvPostalQns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_postal_code"
+            android:layout_marginTop="@dimen/appSMargin"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etPostal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_postal_code"
+            android:inputType="number"
+            android:textColor="@color/colorText"
+            android:layout_marginStart="@dimen/appMMargin"
+            android:layout_marginEnd="@dimen/appMMargin"
+            android:layout_marginBottom="@dimen/appMMargin"/>
+
+        <Button
+            android:id="@+id/btnConfirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/appSMargin"
+            android:gravity="center"
+            android:text="@string/button_registration"
+            android:textColor="@color/colorText"
+            android:background="@color/fui_transparent"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_gradient_bottle"
+        android:scaleType="centerCrop"
+        android:elevation="-5dp"
+        android:contentDescription="@string/description_username_deco"/>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_background_color">#FFFFFFFF</color>
+    <color name="colorPrimary">#4DCB71</color>
+    <color name="colorPrimaryDark">#289B7C</color>
+    <color name="colorAccent">#FFB129</color>
+    <color name="colorAccentDark">#c77f00</color>
+    <color name="colorText">#334e4c</color>
+    <color name="mainText">#2a2a2a</color>
+    <color name="whiteText">#FFF</color>
+    <color name="redText">#c72c42</color>
+    <color name="blueText">#1087d3</color>
+    <color name="yellowText">#f4c523</color>
+</resources>

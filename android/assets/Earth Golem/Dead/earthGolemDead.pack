@@ -1,0 +1,165 @@
+
+earthGolemDead.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+earthGolemDead2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+earthGolemDead3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+earthGolemDead4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+earthGolemDead5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+earthGolemDead6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+earthGolemDead7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+earthGolemDead8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+earthGolemDead9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+earthGolemDead10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+earthGolemDead11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+earthGolemDead12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14

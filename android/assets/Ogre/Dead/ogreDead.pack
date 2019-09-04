@@ -1,0 +1,165 @@
+
+ogreDead.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+ogreDead2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+ogreDead3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+ogreDead4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+ogreDead5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+ogreDead6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+ogreDead7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+ogreDead8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+ogreDead9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+ogreDead10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+ogreDead11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+ogreDead12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+0_Ogre_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14

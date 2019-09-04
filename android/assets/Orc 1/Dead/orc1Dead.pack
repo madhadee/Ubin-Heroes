@@ -1,0 +1,165 @@
+
+orc1Dead.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+orc1Dead2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+orc1Dead3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+orc1Dead4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+orc1Dead5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+orc1Dead6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+orc1Dead7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+orc1Dead8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+orc1Dead9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+orc1Dead10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+orc1Dead11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+orc1Dead12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+0_Orc_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14

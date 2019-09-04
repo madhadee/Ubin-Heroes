@@ -1,0 +1,144 @@
+
+goblinAttack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+goblinAttack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+goblinAttack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+goblinAttack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+goblinAttack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+goblinAttack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+goblinAttack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+goblinAttack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+goblinAttack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+goblinAttack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+goblinAttack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+goblinAttack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

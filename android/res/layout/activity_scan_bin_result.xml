@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Scan Bin Result Screen-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_gradient"
+    android:padding="@dimen/appMPadding"
+    android:paddingTop="@dimen/appXLPadding">
+
+    <TextView
+        android:id="@+id/tvScanPrompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_convert_materials"
+        android:textSize="@dimen/textTitle"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appXLMargin"
+        android:textAlignment="center"/>
+
+    <ImageView
+        android:id="@+id/ivScanBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_claim_box"
+        app:layout_constraintTop_toBottomOf="@id/tvScanPrompt"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appLMargin"
+        android:contentDescription="@string/description_converted_materials"/>
+
+    <TextView
+        android:id="@+id/tvScanPolyCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/count_plastic"
+        android:textSize="@dimen/textUser"
+        android:textColor="@color/redText"
+        app:layout_constraintTop_toBottomOf="@id/ivScanBox"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appLMargin"/>
+
+    <TextView
+        android:id="@+id/tvScanLogamCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/count_metal"
+        android:textSize="@dimen/textUser"
+        android:textColor="@color/blueText"
+        app:layout_constraintTop_toBottomOf="@id/tvScanPolyCount"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appLMargin"/>
+
+    <TextView
+        android:id="@+id/tvScanKayuCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/count_paper"
+        android:textSize="@dimen/textUser"
+        android:textColor="@color/yellowText"
+        app:layout_constraintTop_toBottomOf="@id/tvScanLogamCount"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appLMargin"/>
+
+    <TextView
+        android:id="@+id/tvScanLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/msg_location"
+        android:textAlignment="center"
+        app:layout_constraintTop_toBottomOf="@id/tvScanKayuCount"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/appLMargin"/>
+
+    <Button
+        android:id="@+id/btnScanBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/appMMargin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/bg_profile_box"
+        android:text="@string/action_scan_back"
+        android:onClick="onClick"/>
+
+</android.support.constraint.ConstraintLayout>

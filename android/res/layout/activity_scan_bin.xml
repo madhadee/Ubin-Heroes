@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the layout for the Scan QR Code Screen-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ScanBinActivity">
+
+    <SurfaceView
+        android:id="@+id/textureCamera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/tvScantitle"/>
+
+    <TextView
+        android:id="@+id/tvScantitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_bottom_box"
+        android:paddingTop="@dimen/appMPadding"
+        android:text="@string/title_scan_bin"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="@dimen/textTitle"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/tvScancontent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tvScancontent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_bottom_box"
+        android:paddingHorizontal="@dimen/appXLPadding"
+        android:paddingTop="@dimen/appSPadding"
+        android:paddingBottom="@dimen/appSPadding"
+        android:text="@string/msg_scan_bin_instructions"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="@dimen/textPara"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

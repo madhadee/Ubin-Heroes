@@ -1,0 +1,144 @@
+
+lavaGolemAttack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+lavaGolemAttack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+lavaGolemAttack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+lavaGolemAttack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+lavaGolemAttack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+lavaGolemAttack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+lavaGolemAttack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+lavaGolemAttack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+lavaGolemAttack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+lavaGolemAttack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+lavaGolemAttack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+lavaGolemAttack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing in The Air
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

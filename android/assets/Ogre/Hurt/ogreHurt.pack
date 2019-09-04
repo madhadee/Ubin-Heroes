@@ -1,0 +1,144 @@
+
+ogreHurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+ogreHurt2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+ogreHurt3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+ogreHurt4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+ogreHurt5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+ogreHurt6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+ogreHurt7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+ogreHurt8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+ogreHurt9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+ogreHurt10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+ogreHurt11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+ogreHurt12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Ogre_Hurt
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

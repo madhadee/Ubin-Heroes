@@ -1,0 +1,144 @@
+
+iceGolemAttack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+iceGolemAttack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+iceGolemAttack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+iceGolemAttack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+iceGolemAttack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+iceGolemAttack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+iceGolemAttack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+iceGolemAttack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+iceGolemAttack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+iceGolemAttack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+iceGolemAttack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+iceGolemAttack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="appSMargin">8dp</dimen>
+    <dimen name="appMMargin">16dp</dimen>
+    <dimen name="appLMargin">32dp</dimen>
+    <dimen name="appXLMargin">64dp</dimen>
+
+    <dimen name="appSPadding">8dp</dimen>
+    <dimen name="appMPadding">16dp</dimen>
+    <dimen name="appLPadding">32dp</dimen>
+    <dimen name="appXLPadding">64dp</dimen>
+
+    <dimen name="textUser">25sp</dimen>
+    <dimen name="textHead">20sp</dimen>
+    <dimen name="textTitle">16sp</dimen>
+    <dimen name="textPrestige">14sp</dimen>
+    <dimen name="textInput">16sp</dimen>
+    <dimen name="textPara">12sp</dimen>
+</resources>

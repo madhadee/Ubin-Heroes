@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mygdx.game">
+
+    <!--Required to be able to log in and utilise app's core features like scanning of items and QR Codes, and display leaderboard-->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--Required to access precise location, rather than approximate-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!--Required to access device's camera-->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!--Required for application to read and write from external storage for scanning of the recyclable items-->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!--Required to determine precise location coordinates obtained from Global Positioning System (GPS)-->
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_ubin_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_ubin_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <!--Base activity to be implemented by other activities-->
+        <activity
+            android:name=".activities.BaseActivity" >
+        </activity>
+
+        <activity
+            android:name=".activities.SplashActivity"
+            android:theme="@style/SplashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--All activities-->
+        <activity
+            android:name=".activities.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen" />
+
+        <activity
+            android:name=".activities.UsernameActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen" />
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.HelpOptionsActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.GameHelpActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.RecyclingFactsActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".AndroidLauncher"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen" />
+
+        <activity
+            android:name=".activities.RankingActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.ScanOptionsActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.ScanItemsActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.ScanBinActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.ScanBinResultActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.InventoryActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.ProfileActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.VictoryActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.DefeatActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.SlidersActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"/>
+
+        <activity
+            android:name=".activities.BattlePreparationActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <activity
+            android:name=".activities.MapActivity"
+            android:theme="@style/AppTheme.NoActionBar.FullScreen"
+            android:launchMode="singleTask"/>
+
+        <!--Required for camera to save images during scanning of items before pushing to Google API-->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--App configurations-->
+    <string name="app_name">Ubin Heroes</string>
+
+    <!--Label-->
+    <string name="title_activity_main">Home</string>
+
+    <!--Splash screen -->
+    <string name="msg_splash_screen">Checking to see if you\'re a true Ubin Hero&#8230;</string>
+
+    <!--Registration page-->
+    <string name="title_registration_intro">Hi %s! Let\'s get to know you a bit more.</string>
+    <string name="title_username">What would you like to be called? (Can\'t be changed)</string>
+    <string name="hint_username">Enter username</string>
+    <string name="title_postal_code">What\'s your postal code?</string>
+    <string name="hint_postal_code">Enter postal code</string>
+
+    <!--Scan content-->
+    <string name="title_scan_bin">Scan and convert your items</string>
+    <string name="msg_scan_bin_instructions">Scan the QR code found on a recycling bin to convert your items into materials.</string>
+    <string name="msg_location">Location</string>
+
+    <!--Pre-login-->
+    <string name="title_welcome_text">Welcome to</string>
+    <string name="msg_loading">Verifying&#8230;</string>
+
+    <!--Profile / Leaderboard content-->
+    <string name="title_profile_prestige">Prestige Level: %d</string>
+
+    <string name="title_district">Top 10 Heroes</string>
+    <string name="title_profile_recycle">You recycled</string>
+    <string name="title_profile_wins">Wins</string>
+
+    <string name="label_profile_username">Username</string>
+    <string name="label_profile_district">District</string>
+    <string name="button_logout">Logout</string>
+
+    <string name="msg_logout_success">You\'ve successfully logged out!</string>
+
+    <!--Battle Preparation content-->
+    <string name="title_battleprep">Battle Preparation</string>
+    <string name="msg_battleprep_instructions">Select any 3 cards from your inventory below to be used in battle!</string>
+    <string name="title_warning">Warning</string>
+    <string name="msg_warning">You do not have enough cards&#8230; You will be given 3 basic cards to battle.</string>
+    <string name="msg_not_enough_cards">You need to select 3 cards to battle!</string>
+
+    <!--Map content-->
+    <string name="title_map">Locate Ubins</string>
+    <string name="msg_map_instructions">Find the nearest recycling bin and start converting your recyclable items to usable materials!</string>
+
+    <!--Victory content-->
+    <string name="title_prestige_gained">Prestige Points</string>
+    <string name="title_total_prestige">Total Prestige Points</string>
+    <string name="title_total_wins">Total Wins</string>
+
+    <!--Defeat content-->
+    <string name="title_try_again">Better luck next time</string>
+
+    <!--Inventory content-->
+    <string name="label_plastic">Plastic</string>
+    <string name="label_metal">Metal</string>
+    <string name="label_paper">Paper</string>
+    <string name="count_plastic">0</string>
+    <string name="count_metal">0</string>
+    <string name="count_paper">0</string>
+
+    <string name="msg_recyclable_timestamp">24h left</string>
+    <string name="msg_recyclable_verified">Verified</string>
+
+    <string name="dialog_weapon_cost">Cost</string>
+    <string name="dialog_weapon_success">Success</string>
+    <string name="dialog_weapon_error">Failed</string>
+    <string name="dialog_weapon_success_msg">Weapon successfully crafted and added to inventory!</string>
+    <string name="dialog_weapon_error_msg">You do not have sufficient materials to craft this weapon!</string>
+    <string name="dialog_weapon_ok">Okay</string>
+    <string name="dialog_weapon_cost_number">0</string>
+    <string name="dialog_weapon_create">CRAFT</string>
+
+    <!--GOOGLE CLOUD VISION STRINGS -->
+    <string name="msg_object_detection">Checking&#8230;</string>
+    <string name="msg_image_picker_error">Something is wrong with that image. Pick a different one please.</string>
+    <string name="title_expires">Expires:</string>
+    <string name="title_convert_materials">Congratulations, you’ve claimed the following materials</string>
+    <string name="action_scan_back">Back to menu</string>
+    <string name="title_scan_details">You have scanned a</string>
+    <string name="action_scan_more">Scan More</string>
+    <string name="action_scan_done">Done</string>
+    <string name="msg_item_received">Item may be a: %1$s \nAdding  %2$s into Inventory!</string>
+    <string name="msg_item_received_error">Unable to identify the object: %1$s</string>
+
+    <!--Game Help-->
+    <string name="title_game_tutorial">Game Tutorial</string>
+    <string name="title_step_1">Scan Recyclable Items</string>
+    <string name="msg_step_1_instructions">Find any recyclable items? Tap the "Scan" button, select "Recycling Items"
+        and scan the item to save it to your inventory before picking it up!
+        If you have a bunch of different items, make sure to scan them separately.</string>
+
+    <string name="title_step_2">Scan QR Code</string>
+    <string name="msg_step_2_instructions">Once you have picked up the item, don\'t forget to dispose it properly at a nearby recycling bin.
+        After disposing, tap the "Scan" button again, select "Recycling Bin" and scan the QR code found on the recycling bin to verify that you
+        have indeed dispose the item properly. The items in your inventory will also be converted
+        to usable materials that you can use to craft cards</string>
+
+    <string name="title_step_3">Craft Cards</string>
+    <string name="msg_step_3_instructions">Once you have collected enough materials, you can craft cards by tapping on the "Inventory" button.
+        These cards will help you a lot when fighting monsters!</string>
+
+    <string name="title_step_4">Battle Monsters</string>
+    <string name="msg_step_4_instructions">Challenge yourself by tapping the "Battle" button to face fierce monsters that are covering the island
+        in litters!</string>
+
+    <string name="title_step_5">Compete With Your Friends</string>
+    <string name="msg_step_5_instructions">Play with your friends and see who has got what it takes to be an Ubin Hero!</string>
+
+    <!--Recycling Facts-->
+    <string name="title_recycling_facts">Recycling Facts</string>
+    <string name="title_recycle">Recycle</string>
+    <string name="msg_did_you_know">You are probably no stranger to recycling. But, do you really know what can be recycled and
+        what cannot?</string>
+    <string name="title_can_recycle">The following items can all be recycled!</string>
+    <string name="msg_can_recycle_paper">- Paper</string>
+    <string name="msg_can_recycle_metal_cans">- Metal Cans</string>
+    <string name="msg_can_recycle_plastic">- Plastic</string>
+    <string name="msg_can_recycle_glass">- Glass</string>
+    <string name="msg_can_recycle_clothes">- Clothes</string>
+
+    <string name="title_cannot_recycle">Take note, some items cannot be recycled economically!</string>
+    <string name="msg_cannot_recycle_paper">- Paper that has been contaminated with food waste, used tissue paper and sweet wrappers</string>
+    <string name="msg_cannot_recycle_styrofoam">- Used styrofoam and disposable plastic cups/containers</string>
+    <string name="msg_cannot_recycle_cassette">- Cassette tapes</string>
+    <string name="msg_cannot_recycle_bulbs">- Light bulbs and window glass</string>
+    <string name="msg_cannot_recycle_ceramic">- Ceramic and porcelain items</string>
+
+    <!--Buttons-->
+    <string name="button_registration">Confirm</string>
+
+    <string name="button_home">Home</string>
+    <string name="button_ranking">Ranking</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_inventory">Inventory</string>
+    <string name="button_profile">Profile</string>
+
+    <string name="button_scan_items">Recycling Items</string>
+    <string name="button_scan_bin">Recycling Bin</string>
+    <string name="button_win">VICTORY</string>
+    <string name="button_defeat">DEFEAT</string>
+
+    <!--Content Description-->
+    <string name="description_logo">Ubin Heroes logo.</string>
+    <string name="description_username_deco">Recyclable bottles.</string>
+
+    <string name="description_home_button">Home button.</string>
+    <string name="description_ranking_button">Ranking button.</string>
+    <string name="description_scan_options_button">Scan options button.</string>
+    <string name="description_inventory_button">Inventory button.</string>
+    <string name="description_profile_button">Profile button.</string>
+
+    <string name="description_menu_monster">Idling monster.</string>
+
+    <string name="description_tutorial_help">App tutorial.</string>
+    <string name="description_recycling_facts">Recycling facts.</string>
+    <string name="description_nea_fun_fact">Fun fact from NEA\'s brochure.</string>
+
+    <string name="description_scan_item">First, scan recyclable items.</string>
+    <string name="description_scan_qr_code">Second, scan QR Code.</string>
+    <string name="description_craft">Third, craft cards.</string>
+    <string name="description_battle">Fourth, battle monsters.</string>
+    <string name="description_compete">Fifth, compete against others.</string>
+
+    <string name="description_scan_item_button">Scan recyclable items.</string>
+    <string name="description_scan_qr_button">Scan QR Code.</string>
+
+    <string name="description_converted_materials">Materials earned from recycling.</string>
+
+    <string name="description_plastic_cost">Plastic required.</string>
+    <string name="description_metal_cost">Metal required.</string>
+    <string name="description_paper_cost">Paper required.</string>
+
+    <string name="description_scanned_icon">Icon of material scanned.</string>
+
+    <string name="description_recyclable_item">Material of item scanned.</string>
+
+    <string name="description_recycle_count">Total recycling count.</string>
+    <string name="description_win_count">Total win count.</string>
+</resources>

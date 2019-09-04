@@ -1,0 +1,144 @@
+
+orc1Attack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+orc1Attack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+orc1Attack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+orc1Attack4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+orc1Attack5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+orc1Attack6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+orc1Attack7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+orc1Attack8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+orc1Attack9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+orc1Attack10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+orc1Attack11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+orc1Attack12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Orc_Slashing
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11

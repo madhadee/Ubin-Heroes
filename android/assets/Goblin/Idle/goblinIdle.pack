@@ -1,0 +1,216 @@
+
+goblinIdle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+goblinIdle2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+goblinIdle3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+goblinIdle4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+goblinIdle5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+goblinIdle6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+goblinIdle7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+goblinIdle8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+goblinIdle9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+goblinIdle10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+goblinIdle11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+goblinIdle12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+
+goblinIdle13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+
+goblinIdle14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+
+goblinIdle15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14
+
+goblinIdle16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 15
+
+goblinIdle17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 16
+
+goblinIdle18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 17

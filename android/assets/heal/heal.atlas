@@ -1,0 +1,55 @@
+
+heal.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1-1
+  rotate: false
+  xy: 1225, 62
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: false
+  xy: 1099, 46
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 880, 46
+  size: 217, 77
+  orig: 217, 77
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 2, 2
+  size: 218, 121
+  orig: 218, 121
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 442, 3
+  size: 217, 120
+  orig: 217, 120
+  offset: 0, 0
+  index: -1
+1-6
+  rotate: false
+  xy: 661, 3
+  size: 217, 120
+  orig: 217, 120
+  offset: 0, 0
+  index: -1
+1-7
+  rotate: false
+  xy: 222, 2
+  size: 218, 121
+  orig: 218, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,165 @@
+
+goblinDead.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+goblinDead2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+goblinDead3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+goblinDead4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+goblinDead5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+goblinDead6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+goblinDead7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+goblinDead8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+goblinDead9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+goblinDead10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+goblinDead11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+goblinDead12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+0_Goblin_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14

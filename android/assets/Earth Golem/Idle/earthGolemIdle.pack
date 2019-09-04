@@ -1,0 +1,216 @@
+
+earthGolemIdle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+earthGolemIdle2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+earthGolemIdle3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+earthGolemIdle4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+earthGolemIdle5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+earthGolemIdle6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+earthGolemIdle7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+earthGolemIdle8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+earthGolemIdle9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+earthGolemIdle10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+earthGolemIdle11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+earthGolemIdle12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+
+earthGolemIdle13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+
+earthGolemIdle14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+
+earthGolemIdle15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14
+
+earthGolemIdle16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 15
+
+earthGolemIdle17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 16
+
+earthGolemIdle18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Idle Blinking
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 17

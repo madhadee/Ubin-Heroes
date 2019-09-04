@@ -1,0 +1,165 @@
+
+iceGolemDead.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 0
+
+iceGolemDead2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 1
+
+iceGolemDead3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 2
+
+iceGolemDead4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 3
+
+iceGolemDead5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 4
+
+iceGolemDead6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 5
+
+iceGolemDead7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 6
+
+iceGolemDead8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 7
+
+iceGolemDead9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 8
+
+iceGolemDead10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 9
+
+iceGolemDead11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 10
+
+iceGolemDead12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 11
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 12
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 13
+0_Golem_Dying
+  rotate: false
+  xy: 1, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: 14
