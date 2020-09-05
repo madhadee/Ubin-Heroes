@@ -38,11 +38,11 @@ https://www.youtube.com/watch?v=B6bZRV0LjQo
 * [LibGDX](https://github.com/libgdx/libgdx) - LibGDX
 
 ## Authors
-* **Abdul Haziq (1700446)**
-* **Azman Salleh (1700955)**
-* **Hadee Piperdy (1700048)**
-* **Muhammad Fauzi (1701017)**
-* **Muhammad Nazar (1700931)**
+* **Abdul Haziq **
+* **Azman Salleh (https://github.com/azmansalleh)**
+* **Hadee Piperdy (https://github.com/madhadee)**
+* **Muhammad Fauzi (https://github.com/MFauZ/)**
+* **Muhammad Nazar **
 
 ## Version
 Please refer to our [Release](https://github.com/sgtech-ict2105/ict2105-team07-2019/releases) page to find out more.
