@@ -12,14 +12,7 @@ Ubin Heroes is a single player experience that aims to fuel the fun in recycling
   - Recycling count - Amount of times a user has recycled successfully
 
 ## Getting Started 
-Download the repository as zip file at -
-```sh
- https://github.com/sgtech-ict2105/ict2105-team07-2019
-```
-or clone the repository -   
-```sh
-git clone https://github.com/sgtech-ict2105/ict2105-team07-2019.git
-```
+Download the repository as zip file or clone the repository
 
 ## Demo
 https://www.youtube.com/watch?v=B6bZRV0LjQo
